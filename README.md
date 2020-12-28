@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/SecDOOM/spuddle/master/resources/logo.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/spuddle/master/resources/logo.png)
 
 # <b>Spuddle - Anonymous Traffic Sender</b>
 
@@ -12,4 +12,4 @@ Make clicks in your own site advertisements!
 
 Insert and send your own HTTP headers (referer URLs and cookies).
 
-![alt tag](https://raw.githubusercontent.com/SecDOOM/spuddle/master/resources/example.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/spuddle/master/resources/example.png)
