@@ -1,6 +1,6 @@
 ![alt tag](https://raw.githubusercontent.com/fsiamp/spuddle/master/resources/logo.png)
 
-# <b>Spuddle - Anonymous Traffic Sender</b>
+# <b>Spuddle - HTTP Anonymous Traffic Sender</b>
 
 Load proxies automatically without the need of finding them on the web.
 
